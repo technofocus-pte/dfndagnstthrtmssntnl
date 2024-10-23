@@ -1,2 +1,2 @@
-# frtfydatascrtymsprvwprv
-Fortify Your Data Security with Microsoft Purview
+# dfndagnstthrtmssntnl
+Defend against threats with Microsoft Sentinel
